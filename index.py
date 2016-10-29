@@ -1,6 +1,7 @@
 # coding=utf-8
 import requests
 import json
+import flask
 from task.index import task
 
 _PAPI_MID = "1532165"
